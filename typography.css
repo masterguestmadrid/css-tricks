@@ -1,0 +1,11 @@
+/* Responsive Text */
+.responsive-text {
+  font-size: calc(16px + 1vw);
+}
+
+/* Truncate Text */
+.truncate {
+  white-space: nowrap;
+  overflow: hidden;
+  text-overflow: ellipsis;
+}
